@@ -80,7 +80,7 @@ A **Use Case Diagram** is a visual representation of the interactions between us
 
 A use case diagram for the booking system, showcasing interactions between users (actors) and the system.
 
-![Booking System Use Case Diagram](https://drive.google.com/file/d/1IZtrC5nLv6UB3qVf1VwT1YcK52imIAzF/view?usp=sharing)
+![Booking System Use Case Diagram](./assets/alx-booking-uc.png)
 
 
 ## Acceptance Criteria
